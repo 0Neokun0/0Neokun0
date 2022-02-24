@@ -1,6 +1,6 @@
 <h3 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Welcome to Nishant Meher ( メヘル ニシャント ナレジュ ) profile! <img src="https://giphy.com/embed/FxAYkQqdw63hC" width="50">
+Welcome to Nishant Meher ( メヘル ニシャント ナレジュ ) profile!
 </h3>
 
 ## I'm a Student, Developer, and Learner!!
