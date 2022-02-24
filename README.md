@@ -6,10 +6,10 @@ Welcome to Nishant Meher ( メヘル ニシャント ナレジュ ) profile! <im
 ## I'm a Student, Developer, and Learner!!
 
 - 👀 I’m interested in i.t技術, フルスタック, 情報処理ネットワーク
-- 🌱 I’m currently learning Ruby, Java 
-- 📫 Trying to imporve myself everyday . 毎日自分を改善する
+- 🌱 I’m currently learning Ruby, Java コミットしています。
+- 📫 Improve myself everyday . 毎日自分を改善する事。
 - 🥅 2022 Goals: Contribute more to Open Source projects . オープンソースプロジェクトにもっと貢献する事。
-- 💞️ Fun Fact: I meditate 😁
+- 💞️ Fun Fact: I meditate 🧘
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
