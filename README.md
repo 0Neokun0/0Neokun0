@@ -1,15 +1,15 @@
 <h3 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Welcome to Nishant Meher ( メヘル ニシャン�? ナレジュ ) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Welcome to Nishant Meher ( ãƒ¡ãƒ˜ãƒ« ãƒ‹ã‚·ãƒ£ãƒ³ãƒ? ãƒŠãƒ¬ã‚¸ãƒ¥ ) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 ## I'm a Student, Developer, and Learner!!
 
-- ?�� I’m interested in i.t技�?, フルスタ�?ク, �?報処�?ネットワーク
-- ?�� I’m currently learning Ruby, Java コミットして�?ます�?
-- ?�� Improve myself everyday . 毎日自�?を改�?する事�?
-- ?�? 2022 Goals: Learn Languages and contribute to open source . オープンソースプロジェクトにもっと貢献する事�?
-- ?��?�? Fun Fact: I meditate ?�?
+- ?‘€ Iâ€™m interested in i.tæŠ€è¡?, ãƒ•ãƒ«ã‚¹ã‚¿ãƒ?ã‚¯, æƒ?å ±å‡¦ç?ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯
+- ?Œ± Iâ€™m currently learning Ruby, Java ã‚³ãƒŸãƒƒãƒˆã—ã¦ã?ã¾ã™ã€?
+- ?“« Improve myself everyday . æ¯Žæ—¥è‡ªåˆ?ã‚’æ”¹å–?ã™ã‚‹äº‹ã€?
+- ?¥? 2022 Goals: Learn Languages and contribute to open source . ã‚ªãƒ¼ãƒ—ãƒ³ã‚½ãƒ¼ã‚¹ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã«ã‚‚ã£ã¨è²¢çŒ®ã™ã‚‹äº‹ã€?
+- ?’ž?¸? Fun Fact: I meditate ?§?
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
@@ -23,7 +23,7 @@ Welcome to Nishant Meher ( メヘル ニシャン�? ナレジュ ) profile! <im
     <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2F0Neokun0.github.io%2F"/></a> 
 </p>
 
-## ?��‍♂?�? Connect with me
+## ?™‹â€â™‚?¸? Connect with me
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
@@ -32,18 +32,18 @@ Welcome to Nishant Meher ( メヘル ニシャン�? ナレジュ ) profile! <im
   <a href="https://www.linkedin.com/in/nishant-meher-2a2288137/"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-## ?�� Streak stats
+## ?”¥ Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/0Neokun0/github-readme-streak-stats">
-    <img title="?�� Get streak stats for your profile at git.io/streak-stats" alt="0Neokun0's streak" src="https://github-readme-streak-stats.herokuapp.com?user=0Neokun0&theme=monokai-metallian&hide_border=true"/>
+    <img title="?”¥ Get streak stats for your profile at git.io/streak-stats" alt="0Neokun0's streak" src="https://github-readme-streak-stats.herokuapp.com?user=0Neokun0&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
 
-## ?��?�? My favorite tools
+## ?› ?¸? My favorite tools
 
-### ?��‍💻 Programming languages
+### ?‘¨â€ðŸ’» Programming languages
 
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -60,7 +60,7 @@ Welcome to Nishant Meher ( メヘル ニシャン�? ナレジュ ) profile! <im
 
 </p>
 
-### ?�� Frameworks and libraries
+### ?§° Frameworks and libraries
 
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstarp-21759B?logo=bootstrap&logoColor=white"></a>
@@ -72,7 +72,7 @@ Welcome to Nishant Meher ( メヘル ニシャン�? ナレジュ ) profile! <im
     
 </p>
 
-### ?��?�? Databases and cloud hosting
+### ?—„?¸? Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
@@ -80,7 +80,7 @@ Welcome to Nishant Meher ( メヘル ニシャン�? ナレジュ ) profile! <im
     <!-- <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle%20-%23F00000.svg?logo=oracle&logoColor=white"></a> -->
 </p>
 
-### ?�� Software and tools
+### ?’» Software and tools
 
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
@@ -97,11 +97,11 @@ Welcome to Nishant Meher ( メヘル ニシャン�? ナレジュ ) profile! <im
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=pycharm&logoColor=white"></a>
 </p>
 
-# ?�� Github stats
+# ?“Š Github stats
 
 <!-- https://github.com/0Neokun0/github-readme-stats -->
  
-  <summary>?�� GitHub Profile Stats</summary>
+  <summary>?’» GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/0Neokun0/github-readme-stats"><img alt="NeerajRathod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0Neokun0&show_icons=true&theme=tokyonight" height="192px"/></a>
   <a href="https://github.com/0Neokun0/github-readme-stats"><img alt="NishantMeher's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Neokun0&layout=compact" height="192px"/></a>
