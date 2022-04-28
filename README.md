@@ -6,10 +6,10 @@ Welcome to Nishant Meher ( メヘル ニシャント ナレジュ ) profile! <im
 ## I'm a Student, Developer, and Learner!!
 
 - 👀 I’m interested in i.t技術, フルスタック, 情報処理ネットワーク
-- ? I’m currently learning Ruby, Java 
-- ? Trying to imporve myself everyday . 毎日自分を改善する
-- ? 2022 Goals: Contribute more to Open Source projects . オープンソースプロジェクトにもっと貢献する事。
-- ?? Fun Fact: I meditate ?
+- 🌱 I’m currently learning Ruby, Java 
+- 📫 Trying to imporve myself everyday . 毎日自分を改善する
+- 🥅 2022 Goals: Contribute more to Open Source projects . オープンソースプロジェクトにもっと貢献する事。
+- 💞️ Fun Fact: I meditate 😁
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
@@ -23,7 +23,7 @@ Welcome to Nishant Meher ( メヘル ニシャント ナレジュ ) profile! <im
     <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2F0Neokun0.github.io%2F"/></a> 
 </p>
 
-## ??♂? Connect with me
+🙋‍♂️ Connect with me
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
@@ -32,7 +32,7 @@ Welcome to Nishant Meher ( メヘル ニシャント ナレジュ ) profile! <im
   <a href="https://www.linkedin.com/in/nishant-meher-2a2288137/"><img alt="Dev.to" title="DenverCoder1 Dev.to" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-## ? Streak stats
+🔥 Streak stats
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
@@ -41,9 +41,9 @@ Welcome to Nishant Meher ( メヘル ニシャント ナレジュ ) profile! <im
   </a>
 </p>
 
-## ?? My favorite tools
+🛠️ My favorite tools
 
-### ??? Programming languages
+👨‍💻 Programming languages
 
 <p>
     <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
@@ -60,7 +60,7 @@ Welcome to Nishant Meher ( メヘル ニシャント ナレジュ ) profile! <im
 
 </p>
 
-### ? Frameworks and libraries
+🧰 Frameworks and libraries
 
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstarp-21759B?logo=bootstrap&logoColor=white"></a>
@@ -72,7 +72,7 @@ Welcome to Nishant Meher ( メヘル ニシャント ナレジュ ) profile! <im
     
 </p>
 
-### ?? Databases and cloud hosting
+🗄️  Databases and cloud hosting
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
@@ -80,7 +80,7 @@ Welcome to Nishant Meher ( メヘル ニシャント ナレジュ ) profile! <im
     <!-- <a href="#"><img alt="Oracle" src ="https://img.shields.io/badge/Oracle%20-%23F00000.svg?logo=oracle&logoColor=white"></a> -->
 </p>
 
-### ? Software and tools
+💻 Software and tools
 
 <p>
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
@@ -97,11 +97,11 @@ Welcome to Nishant Meher ( メヘル ニシャント ナレジュ ) profile! <im
     <a href="#"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-0078d7.svg?logo=pycharm&logoColor=white"></a>
 </p>
 
-# ? Github stats
+📊 Github stats
 
 <!-- https://github.com/0Neokun0/github-readme-stats -->
  
-  <summary>? GitHub Profile Stats</summary>
+  <summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/0Neokun0/github-readme-stats"><img alt="NeerajRathod's Github Stats" src="https://github-readme-stats.vercel.app/api?username=0Neokun0&show_icons=true&theme=tokyonight" height="192px"/></a>
   <a href="https://github.com/0Neokun0/github-readme-stats"><img alt="NishantMeher's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Neokun0&layout=compact" height="192px"/></a>
