@@ -1,14 +1,14 @@
 <h3 align="center">
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-Welcome to Nishant Meher ( ƒƒwƒ‹ ƒjƒVƒƒƒ“ƒg ƒiƒŒƒWƒ… ) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Welcome to Nishant Meher ( ãƒ¡ãƒ˜ãƒ« ãƒ‹ã‚·ãƒ£ãƒ³ãƒˆ ãƒŠãƒ¬ã‚¸ãƒ¥ ) profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 ## I'm a Student, Developer, and Learner!!
 
-- ? Ifm interested in i.t‹Zp, ƒtƒ‹ƒXƒ^ƒbƒN, î•ñˆ—ƒlƒbƒgƒ[ƒN
-- ? Ifm currently learning Ruby, Java 
-- ? Trying to imporve myself everyday . –ˆ“ú©•ª‚ğ‰ü‘P‚·‚é
-- ? 2022 Goals: Contribute more to Open Source projects . ƒI[ƒvƒ“ƒ\[ƒXƒvƒƒWƒFƒNƒg‚É‚à‚Á‚ÆvŒ£‚·‚é–B
+- ğŸ‘€ Iâ€™m interested in i.tæŠ€è¡“, ãƒ•ãƒ«ã‚¹ã‚¿ãƒƒã‚¯, æƒ…å ±å‡¦ç†ãƒãƒƒãƒˆãƒ¯ãƒ¼ã‚¯
+- ? Iâ€™m currently learning Ruby, Java 
+- ? Trying to imporve myself everyday . æ¯æ—¥è‡ªåˆ†ã‚’æ”¹å–„ã™ã‚‹
+- ? 2022 Goals: Contribute more to Open Source projects . ã‚ªãƒ¼ãƒ—ãƒ³ã‚½ãƒ¼ã‚¹ãƒ—ãƒ­ã‚¸ã‚§ã‚¯ãƒˆã«ã‚‚ã£ã¨è²¢çŒ®ã™ã‚‹äº‹ã€‚
 - ?? Fun Fact: I meditate ?
 
 <!-- Badges template - https://github.com/badges/shields -->
@@ -23,7 +23,7 @@ Welcome to Nishant Meher ( ƒƒwƒ‹ ƒjƒVƒƒƒ“ƒg ƒiƒŒƒWƒ… ) profile! <img src="https
     <img alt="My Website" title="My Website" src="https://img.shields.io/website?label=WEBISTE&style=for-the-badge&up_color=yellow&up_message=VISIT&url=https%3A%2F%2F0Neokun0.github.io%2F"/></a> 
 </p>
 
-## ??‰? Connect with me
+## ??â™‚? Connect with me
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">
