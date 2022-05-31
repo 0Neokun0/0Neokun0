@@ -69,6 +69,7 @@ Welcome to Nishant Meher ( メヘル ニシャント ナレジュ ) profile! <im
     <!-- <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy%20-%233B5526.svg?logo=sympy&logoColor=white"></a> -->
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
+    <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/next.js-reactlibrary-lightgrey"></a>
     
 </p>
 
