@@ -46,7 +46,7 @@ Welcome to Nishant Meher ( メヘル ニシャント ナレジュ ) profile! <im
 👨‍💻 Programming languages
 
 <p>
-    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
+ 
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
@@ -56,7 +56,7 @@ Welcome to Nishant Meher ( メヘル ニシャント ナレジュ ) profile! <im
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java%20-%2314354C.svg?logo=java&logoColor=orange"></a>
     <a href="#"><img alt="php" src="https://img.shields.io/badge/php%20-%2314354C.svg?logo=php&logoColor=blue"></a>
     <a href="#"><img alt="sql" src="https://img.shields.io/badge/mySQL%20-%2314354C.svg?logo=mysql&logoColor=blue"></a>
-    <a href="#"><img alt="Google Apps Script" src="https://img.shields.io/badge/Google%20Apps%20Script%20-%2302569B.svg?logo=google-cloud&logoColor=white"></a>
+    
 
 </p>
 
@@ -65,9 +65,9 @@ Welcome to Nishant Meher ( メヘル ニシャント ナレジュ ) profile! <im
 <p>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstarp-21759B?logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+    <!-- <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a> -->
     <!-- <a href="#"><img alt="SymPy" src="https://img.shields.io/badge/Sympy%20-%233B5526.svg?logo=sympy&logoColor=white"></a> -->
-    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <!-- <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?logo=TensorFlow&logoColor=white"></a> -->
     <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/next.js-reactlibrary-lightgrey"></a>
     
