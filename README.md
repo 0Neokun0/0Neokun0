@@ -46,7 +46,6 @@ Welcome to Nishant Meher ( メヘル ニシャント ナレジュ ) profile! <im
 👨‍💻 Programming languages
 
 <p>
- 
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
@@ -56,8 +55,6 @@ Welcome to Nishant Meher ( メヘル ニシャント ナレジュ ) profile! <im
     <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java%20-%2314354C.svg?logo=java&logoColor=orange"></a>
     <a href="#"><img alt="php" src="https://img.shields.io/badge/php%20-%2314354C.svg?logo=php&logoColor=blue"></a>
     <a href="#"><img alt="sql" src="https://img.shields.io/badge/mySQL%20-%2314354C.svg?logo=mysql&logoColor=blue"></a>
-    
-
 </p>
 
 🧰 Frameworks and libraries
